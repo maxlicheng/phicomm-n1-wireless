@@ -1,7 +1,6 @@
 brcmfmac
 brcmutil
 cfg80211
-brcmsmac
 btsdio
 realtek
 ip_set
